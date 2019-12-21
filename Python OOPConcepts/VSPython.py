@@ -52,9 +52,3 @@ class Point:
 
 point = Point(3)
 print(point.x, point.y)
-    
-    
-    
-    
-    
-    
